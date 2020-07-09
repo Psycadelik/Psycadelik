@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![bitmoji](https://github.com/Psycadelik/Psycadelik/blob/master/assets/bitmoji-ayyy.png)
 
 <!--
 **Psycadelik/Psycadelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
