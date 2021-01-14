@@ -1,3 +1,9 @@
-[![Adrians's github stats](https://github-readme-stats.vercel.app/api?username=psycadelik&count_private=true&show_icons=true&theme=radical)](https://github.com/psycadelik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psycadelik)](https://github.com/psycadelik/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/psycadelik">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=psycadelik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psycadelik&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
