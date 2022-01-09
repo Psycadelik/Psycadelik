@@ -98,7 +98,10 @@ Want to connect? Check out my socials:
 
 ### Sound
 <div>
-  <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/user/21ezowrfx2unairrnrw4tyzvi">
+    <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  
   <img align="left" alt="Tidal" src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" />
 </div>
 <br>
