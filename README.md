@@ -1,6 +1,6 @@
 ### Hi there 👋 Adrian Francis here <img align="right" src="https://komarev.com/ghpvc/?username=psycadelik&label=PROFILE+VIEWS&color=brightgreen&style=flat-square"/>
 
-I am a problem solver, Open-Source Enthusiast and Senior Software Engineer with a passion for solving problems and building software, based in Nairobi, Kenya.
+I am a problem solver, Open-Source Enthusiast ( and BMW Enthusiast :) )  with a passion for solving problems and building software ( and tearing down car engines :) ), based in Nairobi, Kenya.
 Want to connect? Check out my socials:
 
 <div>
@@ -101,7 +101,6 @@ Want to connect? Check out my socials:
   <a href="https://open.spotify.com/user/21ezowrfx2unairrnrw4tyzvi">
     <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  
   <img align="left" alt="Tidal" src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" />
 </div>
 <br>
