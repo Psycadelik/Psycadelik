@@ -13,10 +13,10 @@ Want to connect? Hit me up on:
   <a href="https://discordapp.com/users/psycadel#9253">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://www.goodreads.com/user/show/141022075-adrian-francis">
      <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white">
   </a>
-   <a href="">
+   <a href="https://www.hackerrank.com/Psycadelik">
      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
    </a>
 </div>
