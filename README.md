@@ -1,15 +1,24 @@
 ### Hi there 👋 Adrian Francis here <img align="right" src="https://komarev.com/ghpvc/?username=psycadelik&label=PROFILE+VIEWS&color=brightgreen&style=flat-square"/>
 
-Problem solver. I am a Senior Software Engineer with a passion for solving problems and building software based in Nairobi, Kenya.
+Problem solver. I am a Senior Software Engineer with a passion for solving problems and building software, based in Nairobi, Kenya.
 Want to connect? Hit me up on:
 
 <div>
   <a href="https://www.linkedin.com/in/adrian-francis-0b974b148/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Is_Adrian_">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://github.com/psycadelik">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://discordapp.com/users/psycadel#9253">
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="">
+     <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white">
+  </a>
+   <a href="">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+   </a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -72,6 +81,14 @@ Want to connect? Hit me up on:
 ### Tools & Workspace Specs
 <div>
   <img align="left" alt="AMD" src="https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</div>
+<br>
+<br>
+
+### Gaming
+<div>
+  <img align="left" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+  <img align="left" alt="nintendo switch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 </div>
 <br>
 <br>
