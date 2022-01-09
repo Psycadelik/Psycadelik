@@ -38,6 +38,7 @@ Want to connect? Hit me up on:
   <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 <br>
+<br>
 
 ### DevOps
 <div>
