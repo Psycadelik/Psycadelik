@@ -17,9 +17,10 @@ Want to connect? Hit me up on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psycadelik&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycadelik&layout=compact&langs_count=8&hide_border=true&theme=vue-dark"/>
 </div>&nbsp;
+<br>
+<br>
 
 ### Languages
-
 <div>
   <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,12 +29,10 @@ Want to connect? Hit me up on:
   <img align="left" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="left" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
-
 <br>
 <br>
 
 ### Databases
-
 <div>
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&style=for-the-badge&logoColor=white" />
   <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white" />
@@ -41,14 +40,12 @@ Want to connect? Hit me up on:
 <br>
 
 ### DevOps
-
 <div>
   <img align="left" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img align="left" alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" />
   <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
 </div>
-
 <br>
 <br>
 
@@ -59,11 +56,10 @@ Want to connect? Hit me up on:
   <img align="left" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img align="left" alt="FeeBSD" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
 </div>
-
 <br>
 <br>
 
-###IDE
+### IDE
 <div>
   <img align="left" alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
   <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
