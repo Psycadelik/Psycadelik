@@ -47,15 +47,20 @@ Want to connect? Hit me up on:
   <img align="left" alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" />
   <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
-</div>&nbsp
+</div>
+
+<br>
+<br>
 
 ### OS
 <div>
   <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img align="left" alt="Debian" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img align="left" alt="Debian" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img align="left" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img align="left" alt="FeeBSD" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
 </div>
+
+<br>
 <br>
 
 ###IDE
@@ -65,11 +70,13 @@ Want to connect? Hit me up on:
   <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
 <br>
+<br>
 
 ### Tools & Workspace Specs
 <div>
   <img align="left" alt="AMD" src="https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </div>
+<br>
 <br>
 
 ### Sound
@@ -77,6 +84,7 @@ Want to connect? Hit me up on:
   <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <img align="left" alt="Tidal" src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" />
 </div>
+<br>
 <br>
 
 ### Learning
