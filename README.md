@@ -7,9 +7,6 @@ Want to connect? Check out my socials:
   <a href="https://www.linkedin.com/in/adrian-francis-0b974b148/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://github.com/psycadelik">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="https://instagram.com/jk_scrolling">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -75,7 +72,6 @@ Want to connect? Check out my socials:
 ### IDE
 <div>
   <img align="left" alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
-  <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
 <br>
