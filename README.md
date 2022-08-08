@@ -1,12 +1,9 @@
 ### Hi there 👋 Adrian Francis here <img align="right" src="https://komarev.com/ghpvc/?username=psycadelik&label=PROFILE+VIEWS&color=brightgreen&style=flat-square"/>
 
-I am a problem solver, Open-Source Enthusiast, Senior Software Engineer ( and BMW Enthusiast :) )  with a passion for solving problems and building software ( and tearing down car engines :) ), based in Nairobi, Kenya.
+I am a problem solver, with a passion for solving problems and building software ( and tearing down car engines :) ), based in Nairobi, Kenya.
 Want to connect? Check out my socials:
 
 <div>
-  <a href="https://www.linkedin.com/in/adrian-francis-0b974b148/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
-  </a>
   <a href="https://instagram.com/jk_scrolling">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -32,11 +29,7 @@ Want to connect? Check out my socials:
 ### Languages
 <div>
   <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
-  <img align="left" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="left" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="left" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
 </div>
 <br>
 <br>
@@ -44,7 +37,6 @@ Want to connect? Check out my socials:
 ### Databases
 <div>
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&style=for-the-badge&logoColor=white" />
-  <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white" />
 </div>&nbsp;
 <br>
 <br>
@@ -52,8 +44,6 @@ Want to connect? Check out my socials:
 ### DevOps
 <div>
   <img align="left" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img align="left" alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" />
-  <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
 </div>
 <br>
@@ -62,9 +52,6 @@ Want to connect? Check out my socials:
 ### OS
 <div>
   <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="left" alt="Debian" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="left" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img align="left" alt="FeeBSD" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
 </div>
 <br>
 <br>
@@ -72,7 +59,6 @@ Want to connect? Check out my socials:
 ### IDE
 <div>
   <img align="left" alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
-  <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
 <br>
 <br>
