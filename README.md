@@ -91,5 +91,4 @@ Want to connect? Check out my socials:
 ### Learning
 <div>
   <img align="left" alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img align="left" alt="clojure" src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
 </div>
