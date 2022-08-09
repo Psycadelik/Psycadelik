@@ -7,15 +7,9 @@ Want to connect? Check out my socials:
   <a href="https://instagram.com/jk_scrolling">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/psycadel#9253">
-     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://www.goodreads.com/user/show/141022075-adrian-francis">
      <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
   </a>
-   <a href="https://www.hackerrank.com/Psycadelik">
-     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-   </a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -73,7 +67,6 @@ Want to connect? Check out my socials:
 ### Gaming
 <div>
   <img align="left" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-  <img align="left" alt="nintendo switch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 </div>
 <br>
 <br>
