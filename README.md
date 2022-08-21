@@ -1,9 +1,11 @@
 ### Hi there 👋 Adrian Francis here <img align="right" src="https://komarev.com/ghpvc/?username=psycadelik&label=PROFILE+VIEWS&color=brightgreen&style=flat-square"/>
 
 I am a software craftsman based in Nairobi, Kenya.
-Want to connect? Check out my socials:
 
 <div>
+ <a href="https://www.linkedin.com/in/adrian-francis-0b974b148/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
   <a href="https://instagram.com/jk_scrolling">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
